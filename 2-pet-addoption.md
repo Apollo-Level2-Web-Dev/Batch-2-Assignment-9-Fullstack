@@ -1,5 +1,7 @@
 # Pet Adoption
 
+The Pet Adoption website is a comprehensive platform designed to facilitate the adoption of pets by connecting potential adopters with available animals. The website includes features for browsing and searching for pets, detailed pet profiles, user account management, and administrative tools for managing pet listings and user accounts. The goal is to create an efficient, user-friendly, and secure system that promotes responsible pet adoption and helps pets find loving homes.
+
 ## Full Feature Requirements for Pet Adoption Website
 
 ### 1. Home Page/Landing Page
@@ -81,7 +83,7 @@
 
 - **Form Fields**:
     - User's contact information (prefilled from profile if possible)
-    - Additional information or message to the pet shelter/rescue organization
+    - Additional information
     - Agreement to terms and conditions
 - **Submit Button**: Submit the adoption request.
 
