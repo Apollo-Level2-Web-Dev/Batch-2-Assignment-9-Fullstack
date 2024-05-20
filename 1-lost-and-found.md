@@ -1,5 +1,7 @@
 # Lost & Found
 
+The Lost & Found website is a community-driven platform designed to help individuals report and reclaim lost items. By facilitating the reporting of both lost and found items, the website aims to create a seamless process for reuniting people with their belongings. The platform includes user-friendly features for reporting items, verifying ownership, and managing user profiles, with additional administrative tools for overseeing site activity and user management.
+
 ### 1. Home Page/Landing Page
 
 ### Header:
@@ -77,10 +79,9 @@
 - **Date and Location**: When and where it was found.
 - **Optional Fields**:
     - Contact Information: Phone number, email.
-    - Upload Images: Images of the found item.
+    - Upload Images: Images of the found item. (Please use Imgbb for easy delopyment)
 - **Claim Process**: Mechanism for users to claim found items.
-    - Verification of ownership.
-    - Messaging system for communication between finder and claimant.
+    - Verification of ownership. Verification of ownership can include detailed descriptions, proof of purchase, photos, ownership documentation, detailed loss accounts, matching accessories, security features, and third-party confirmation.
 
 ### 5. My Profile
 
