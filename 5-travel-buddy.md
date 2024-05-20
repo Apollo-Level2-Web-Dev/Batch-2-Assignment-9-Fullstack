@@ -1,5 +1,7 @@
 # Travel Buddy
 
+The Travel Buddy website is designed to connect travelers looking for companionship on their trips. It allows users to share their travel plans, search for trips, and find like-minded individuals to join them. The platform aims to foster a community of travelers who can explore the world together, share experiences, and make travel more enjoyable and safe.
+
 ## Full Feature Requirements for Travel Buddy Website
 
 ### 1. Home Page/Landing Page
@@ -105,7 +107,7 @@ N.B: these two are just for example.
 
 - **Form Fields**:
     - User's contact information (prefilled from profile)
-    - Additional message to the trip organizer
+    - Additional Information
     - Agreement to terms and conditions
 - **Submit Button**: Submit the travel request.
 
@@ -123,7 +125,7 @@ N.B: these two are just for example.
     - Details for each request:
         - Trip destination
         - Status of the request (pending, approved, rejected)
-        - Option to message the trip organizer (if approved)
+
 - **7.2 Travel Posts**:
     - List of trips the user has posted.
     - Details for each post:
