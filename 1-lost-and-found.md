@@ -104,6 +104,13 @@ The Lost & Found website is a community-driven platform designed to help individ
         - Item description
         - Date and location (if provided)
         - Options to edit or delete the report
+- **5.3 My Found Items**:
+    - List of items reported found by the user.
+    - Details include:
+        - Item description
+        - Date and location (if provided)
+        - Options to edit or delete the report
+        - Status of the item (approved, rejected). Change status if found actual owner or not of the item.
 
 ### 6. Admin Dashboard (User Management)
 
