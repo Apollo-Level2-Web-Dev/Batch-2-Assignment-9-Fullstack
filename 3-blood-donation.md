@@ -1,5 +1,7 @@
 # Blood Donation
 
+The Blood Donation website is a user-centric platform designed to facilitate blood donations by connecting donors with recipients. It includes features for searching and filtering donors, detailed donor profiles, user account management, and administrative tools for overseeing site activity and user accounts. The aim is to promote and streamline the process of blood donation, ensuring that those in need can easily find willing donors and that the donation process is secure, efficient, and user-friendly.
+
 ## Full Feature Requirements for Blood Donation Website
 
 ### 1. Home Page/Landing Page
@@ -105,7 +107,7 @@
 
 - **Form Fields**:
     - Requester's contact information (prefilled from profile if possible)
-    - Message to the donor
+    - Additional Information (Hospital name, date, time, etc)
     - Agreement to terms and conditions
 - **Submit Button**: Submit the blood request.
 
@@ -124,7 +126,7 @@
         - Donor's name
         - Blood type
         - Status of the request (pending, approved, rejected)
-        - Option to message the donor (if approved)
+        - see contact information of the donor (if approved)
 - **6.2 Requests for Blood to Me**:
     - List of blood requests received by the user.
     - Details for each request:
