@@ -93,7 +93,7 @@
 
 - **Form Fields**:
     - User's contact information (prefilled from profile)
-    - Additional message to the flat owner
+    - Additional information 
     - Agreement to terms and conditions
 - **Submit Button**: Submit the flat share request.
 
@@ -120,7 +120,6 @@
     - Details for each request:
         - Flat's location
         - Status of the request (pending, approved, rejected)
-        - Option to message the flat owner (if approved)
 
 ### 7. Admin Dashboard
 
