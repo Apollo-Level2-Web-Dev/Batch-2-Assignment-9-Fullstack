@@ -164,4 +164,4 @@ N.B: these two are just for example.
 - **Secure Login System**: Implement password hashing to ensure secure login.
 - **Responsive Design**: Ensure the website is accessible and user-friendly on various devices (desktops, tablets, mobile phones).
 
-### Figma file (It's only for ideation) :
+### Figma file (It's only for ideation) : https://www.figma.com/design/lNNU9RRKx8nNHWlaRnpFLo/Travel-Buddy--Assignment?node-id=2021%3A1598&t=5qgPOoS29gPYQDNB-1
